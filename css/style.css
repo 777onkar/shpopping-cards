@@ -1,8 +1,16 @@
 .all{
-    background-color: #f3d2c1;
+    background-color: bisque ;    ;
 }
 
 .heading{
       color: violet;
-      
+}
+
+.text{
+    color: darkblue;
+    border-style: solid;
+    background-color: whitesmoke ;
+    padding: 20px;
+    height: 250px;
+    width: 200px;
 }
