@@ -1,10 +1,7 @@
-.all{
+.all{ 
     background-color: bisque ;    ;
 }
 
-.heading{
-      color: violet;
-}
 
 .text{
     color: black;
@@ -24,6 +21,32 @@
 
 .buy{
     background-color: orangered;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 10px;
+    padding: auto;
+    cursor: pointer;
+    
+}
+
+.second{
+    color: black;
+    border-style: solid;
+    background-color: whitesmoke ;
+    padding: 45px;
+    margin: 0px;
+    border-radius: 30px;
+    height: 355px;
+    width: 215px;
+    border-color: white;
+}
+
+.buds{
+    color: #8c7851;
+}
+
+.add{
+    background-color: blueviolet;
     color: black;
     padding: 10px 20px;
     border-radius: 10px;
