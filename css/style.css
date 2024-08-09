@@ -2,7 +2,7 @@
     background-color: bisque ;    ;
 }
 
-
+    
 .text{
     color: black;
     border-style: solid;
@@ -43,6 +43,37 @@
 
 .buds{
     color: #8c7851;
+}
+
+.add{
+    background-color: blueviolet;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 10px;
+    padding: auto;
+    cursor: pointer;
+    
+}
+
+.third{
+    color: black;
+    border-style: solid;
+    background-color: whitesmoke ;
+    padding: 45px;
+    margin: 0px;
+    border-radius: 30px;
+    height: 355px;
+    width: 215px;
+    border-color: white;
+}
+
+.watch{
+    color: #8c7851;
+    padding-left: 15px;
+    padding: auto;
+    padding-bottom: 2px;
+
+  margin: 10px;
 }
 
 .add{
