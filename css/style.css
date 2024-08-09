@@ -7,10 +7,27 @@
 }
 
 .text{
-    color: darkblue;
+    color: black;
     border-style: solid;
     background-color: whitesmoke ;
-    padding: 20px;
-    height: 250px;
-    width: 200px;
+    padding: 45px;
+    margin: 0px;
+    border-radius: 30px;
+    height: 355px;
+    width: 215px;
+    border-color: white;
+}
+
+.samsung{
+    color: #8c7851;
+}
+
+.buy{
+    background-color: orangered;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 10px;
+    padding: auto;
+    cursor: pointer;
+    
 }
